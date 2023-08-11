@@ -5,5 +5,5 @@ export interface Country {
 
 interface State {
     name: string;
-    state_code: string;
+    code: string;
 }
