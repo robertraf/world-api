@@ -3485,51 +3485,51 @@
         "name": "Benin",
         "states": [
             {
-                "name": "Alibori Department",
+                "name": "Alibori",
                 "state_code": "AL"
             },
             {
-                "name": "Atakora Department",
+                "name": "Atakora",
                 "state_code": "AK"
             },
             {
-                "name": "Atlantique Department",
+                "name": "Atlantique",
                 "state_code": "AQ"
             },
             {
-                "name": "Borgou Department",
+                "name": "Borgou",
                 "state_code": "BO"
             },
             {
-                "name": "Collines Department",
+                "name": "Collines",
                 "state_code": "CO"
             },
             {
-                "name": "Donga Department",
+                "name": "Donga",
                 "state_code": "DO"
             },
             {
-                "name": "Kouffo Department",
+                "name": "Kouffo",
                 "state_code": "KO"
             },
             {
-                "name": "Littoral Department",
+                "name": "Littoral",
                 "state_code": "LI"
             },
             {
-                "name": "Mono Department",
+                "name": "Mono",
                 "state_code": "MO"
             },
             {
-                "name": "Ouémé Department",
+                "name": "Ouémé",
                 "state_code": "OU"
             },
             {
-                "name": "Plateau Department",
+                "name": "Plateau",
                 "state_code": "PL"
             },
             {
-                "name": "Zou Department",
+                "name": "Zou",
                 "state_code": "ZO"
             }
         ]
@@ -3538,51 +3538,51 @@
         "name": "Benin",
         "states": [
             {
-                "name": "Alibori Department",
+                "name": "Alibori",
                 "state_code": "AL"
             },
             {
-                "name": "Atakora Department",
+                "name": "Atakora",
                 "state_code": "AK"
             },
             {
-                "name": "Atlantique Department",
+                "name": "Atlantique",
                 "state_code": "AQ"
             },
             {
-                "name": "Borgou Department",
+                "name": "Borgou",
                 "state_code": "BO"
             },
             {
-                "name": "Collines Department",
+                "name": "Collines",
                 "state_code": "CO"
             },
             {
-                "name": "Donga Department",
+                "name": "Donga",
                 "state_code": "DO"
             },
             {
-                "name": "Kouffo Department",
+                "name": "Kouffo",
                 "state_code": "KO"
             },
             {
-                "name": "Littoral Department",
+                "name": "Littoral",
                 "state_code": "LI"
             },
             {
-                "name": "Mono Department",
+                "name": "Mono",
                 "state_code": "MO"
             },
             {
-                "name": "Ouémé Department",
+                "name": "Ouémé",
                 "state_code": "OU"
             },
             {
-                "name": "Plateau Department",
+                "name": "Plateau",
                 "state_code": "PL"
             },
             {
-                "name": "Zou Department",
+                "name": "Zou",
                 "state_code": "ZO"
             }
         ]
@@ -3835,39 +3835,39 @@
         "name": "Bolivia",
         "states": [
             {
-                "name": "Beni Department",
+                "name": "Beni",
                 "state_code": "B"
             },
             {
-                "name": "Chuquisaca Department",
+                "name": "Chuquisaca",
                 "state_code": "H"
             },
             {
-                "name": "Cochabamba Department",
+                "name": "Cochabamba",
                 "state_code": "C"
             },
             {
-                "name": "La Paz Department",
+                "name": "La Paz",
                 "state_code": "L"
             },
             {
-                "name": "Oruro Department",
+                "name": "Oruro",
                 "state_code": "O"
             },
             {
-                "name": "Pando Department",
+                "name": "Pando",
                 "state_code": "N"
             },
             {
-                "name": "Potosí Department",
+                "name": "Potosí",
                 "state_code": "P"
             },
             {
-                "name": "Santa Cruz Department",
+                "name": "Santa Cruz",
                 "state_code": "S"
             },
             {
-                "name": "Tarija Department",
+                "name": "Tarija",
                 "state_code": "T"
             }
         ]
@@ -3876,39 +3876,39 @@
         "name": "Bolivia",
         "states": [
             {
-                "name": "Beni Department",
+                "name": "Beni",
                 "state_code": "B"
             },
             {
-                "name": "Chuquisaca Department",
+                "name": "Chuquisaca",
                 "state_code": "H"
             },
             {
-                "name": "Cochabamba Department",
+                "name": "Cochabamba",
                 "state_code": "C"
             },
             {
-                "name": "La Paz Department",
+                "name": "La Paz",
                 "state_code": "L"
             },
             {
-                "name": "Oruro Department",
+                "name": "Oruro",
                 "state_code": "O"
             },
             {
-                "name": "Pando Department",
+                "name": "Pando",
                 "state_code": "N"
             },
             {
-                "name": "Potosí Department",
+                "name": "Potosí",
                 "state_code": "P"
             },
             {
-                "name": "Santa Cruz Department",
+                "name": "Santa Cruz",
                 "state_code": "S"
             },
             {
-                "name": "Tarija Department",
+                "name": "Tarija",
                 "state_code": "T"
             }
         ]
@@ -6985,7 +6985,7 @@
         "name": "Congo",
         "states": [
             {
-                "name": "Bouenza Department",
+                "name": "Bouenza",
                 "state_code": "11"
             },
             {
@@ -6993,31 +6993,31 @@
                 "state_code": "BZV"
             },
             {
-                "name": "Cuvette Department",
+                "name": "Cuvette",
                 "state_code": "8"
             },
             {
-                "name": "Cuvette-Ouest Department",
+                "name": "Cuvette-Ouest",
                 "state_code": "15"
             },
             {
-                "name": "Kouilou Department",
+                "name": "Kouilou",
                 "state_code": "5"
             },
             {
-                "name": "Lékoumou Department",
+                "name": "Lékoumou",
                 "state_code": "2"
             },
             {
-                "name": "Likouala Department",
+                "name": "Likouala",
                 "state_code": "7"
             },
             {
-                "name": "Niari Department",
+                "name": "Niari",
                 "state_code": "9"
             },
             {
-                "name": "Plateaux Department",
+                "name": "Plateaux",
                 "state_code": "14"
             },
             {
@@ -7025,11 +7025,11 @@
                 "state_code": "16"
             },
             {
-                "name": "Pool Department",
+                "name": "Pool",
                 "state_code": "12"
             },
             {
-                "name": "Sangha Department",
+                "name": "Sangha",
                 "state_code": "13"
             }
         ]
@@ -7038,7 +7038,7 @@
         "name": "Congo",
         "states": [
             {
-                "name": "Bouenza Department",
+                "name": "Bouenza",
                 "state_code": "11"
             },
             {
@@ -7046,31 +7046,31 @@
                 "state_code": "BZV"
             },
             {
-                "name": "Cuvette Department",
+                "name": "Cuvette",
                 "state_code": "8"
             },
             {
-                "name": "Cuvette-Ouest Department",
+                "name": "Cuvette-Ouest",
                 "state_code": "15"
             },
             {
-                "name": "Kouilou Department",
+                "name": "Kouilou",
                 "state_code": "5"
             },
             {
-                "name": "Lékoumou Department",
+                "name": "Lékoumou",
                 "state_code": "2"
             },
             {
-                "name": "Likouala Department",
+                "name": "Likouala",
                 "state_code": "7"
             },
             {
-                "name": "Niari Department",
+                "name": "Niari",
                 "state_code": "9"
             },
             {
-                "name": "Plateaux Department",
+                "name": "Plateaux",
                 "state_code": "14"
             },
             {
@@ -7078,11 +7078,11 @@
                 "state_code": "16"
             },
             {
-                "name": "Pool Department",
+                "name": "Pool",
                 "state_code": "12"
             },
             {
-                "name": "Sangha Department",
+                "name": "Sangha",
                 "state_code": "13"
             }
         ]
@@ -9743,59 +9743,59 @@
         "name": "El Salvador",
         "states": [
             {
-                "name": "Ahuachapán Department",
+                "name": "Ahuachapán",
                 "state_code": "AH"
             },
             {
-                "name": "Cabañas Department",
+                "name": "Cabañas",
                 "state_code": "CA"
             },
             {
-                "name": "Chalatenango Department",
+                "name": "Chalatenango",
                 "state_code": "CH"
             },
             {
-                "name": "Cuscatlán Department",
+                "name": "Cuscatlán",
                 "state_code": "CU"
             },
             {
-                "name": "La Libertad Department",
+                "name": "La Libertad",
                 "state_code": "LI"
             },
             {
-                "name": "La Paz Department",
+                "name": "La Paz",
                 "state_code": "PA"
             },
             {
-                "name": "La Unión Department",
+                "name": "La Unión",
                 "state_code": "UN"
             },
             {
-                "name": "Morazán Department",
+                "name": "Morazán",
                 "state_code": "MO"
             },
             {
-                "name": "San Miguel Department",
+                "name": "San Miguel",
                 "state_code": "SM"
             },
             {
-                "name": "San Salvador Department",
+                "name": "San Salvador",
                 "state_code": "SS"
             },
             {
-                "name": "San Vicente Department",
+                "name": "San Vicente",
                 "state_code": "SV"
             },
             {
-                "name": "Santa Ana Department",
+                "name": "Santa Ana",
                 "state_code": "SA"
             },
             {
-                "name": "Sonsonate Department",
+                "name": "Sonsonate",
                 "state_code": "SO"
             },
             {
-                "name": "Usulután Department",
+                "name": "Usulután",
                 "state_code": "US"
             }
         ]
@@ -9804,59 +9804,59 @@
         "name": "El Salvador",
         "states": [
             {
-                "name": "Ahuachapán Department",
+                "name": "Ahuachapán",
                 "state_code": "AH"
             },
             {
-                "name": "Cabañas Department",
+                "name": "Cabañas",
                 "state_code": "CA"
             },
             {
-                "name": "Chalatenango Department",
+                "name": "Chalatenango",
                 "state_code": "CH"
             },
             {
-                "name": "Cuscatlán Department",
+                "name": "Cuscatlán",
                 "state_code": "CU"
             },
             {
-                "name": "La Libertad Department",
+                "name": "La Libertad",
                 "state_code": "LI"
             },
             {
-                "name": "La Paz Department",
+                "name": "La Paz",
                 "state_code": "PA"
             },
             {
-                "name": "La Unión Department",
+                "name": "La Unión",
                 "state_code": "UN"
             },
             {
-                "name": "Morazán Department",
+                "name": "Morazán",
                 "state_code": "MO"
             },
             {
-                "name": "San Miguel Department",
+                "name": "San Miguel",
                 "state_code": "SM"
             },
             {
-                "name": "San Salvador Department",
+                "name": "San Salvador",
                 "state_code": "SS"
             },
             {
-                "name": "San Vicente Department",
+                "name": "San Vicente",
                 "state_code": "SV"
             },
             {
-                "name": "Santa Ana Department",
+                "name": "Santa Ana",
                 "state_code": "SA"
             },
             {
-                "name": "Sonsonate Department",
+                "name": "Sonsonate",
                 "state_code": "SO"
             },
             {
-                "name": "Usulután Department",
+                "name": "Usulután",
                 "state_code": "US"
             }
         ]
@@ -12541,87 +12541,87 @@
         "name": "Guatemala",
         "states": [
             {
-                "name": "Alta Verapaz Department",
+                "name": "Alta Verapaz",
                 "state_code": "AV"
             },
             {
-                "name": "Baja Verapaz Department",
+                "name": "Baja Verapaz",
                 "state_code": "BV"
             },
             {
-                "name": "Chimaltenango Department",
+                "name": "Chimaltenango",
                 "state_code": "CM"
             },
             {
-                "name": "Chiquimula Department",
+                "name": "Chiquimula",
                 "state_code": "CQ"
             },
             {
-                "name": "El Progreso Department",
+                "name": "El Progreso",
                 "state_code": "PR"
             },
             {
-                "name": "Escuintla Department",
+                "name": "Escuintla",
                 "state_code": "ES"
             },
             {
-                "name": "Guatemala Department",
+                "name": "Guatemala",
                 "state_code": "GU"
             },
             {
-                "name": "Huehuetenango Department",
+                "name": "Huehuetenango",
                 "state_code": "HU"
             },
             {
-                "name": "Izabal Department",
+                "name": "Izabal",
                 "state_code": "IZ"
             },
             {
-                "name": "Jalapa Department",
+                "name": "Jalapa",
                 "state_code": "JA"
             },
             {
-                "name": "Jutiapa Department",
+                "name": "Jutiapa",
                 "state_code": "JU"
             },
             {
-                "name": "Petén Department",
+                "name": "Petén",
                 "state_code": "PE"
             },
             {
-                "name": "Quetzaltenango Department",
+                "name": "Quetzaltenango",
                 "state_code": "QZ"
             },
             {
-                "name": "Quiché Department",
+                "name": "Quiché",
                 "state_code": "QC"
             },
             {
-                "name": "Retalhuleu Department",
+                "name": "Retalhuleu",
                 "state_code": "RE"
             },
             {
-                "name": "Sacatepéquez Department",
+                "name": "Sacatepéquez",
                 "state_code": "SA"
             },
             {
-                "name": "San Marcos Department",
+                "name": "San Marcos",
                 "state_code": "SM"
             },
             {
-                "name": "Santa Rosa Department",
+                "name": "Santa Rosa",
                 "state_code": "SR"
             },
             {
-                "name": "Sololá Department",
+                "name": "Sololá",
                 "state_code": "SO"
             },
             {
-                "name": "Suchitepéquez Department",
+                "name": "Suchitepéquez",
                 "state_code": "SU"
             },
             {
-                "name": "Totonicapán Department",
+                "name": "Totonicapán",
                 "state_code": "TO"
             }
         ]
@@ -12630,87 +12630,87 @@
         "name": "Guatemala",
         "states": [
             {
-                "name": "Alta Verapaz Department",
+                "name": "Alta Verapaz",
                 "state_code": "AV"
             },
             {
-                "name": "Baja Verapaz Department",
+                "name": "Baja Verapaz",
                 "state_code": "BV"
             },
             {
-                "name": "Chimaltenango Department",
+                "name": "Chimaltenango",
                 "state_code": "CM"
             },
             {
-                "name": "Chiquimula Department",
+                "name": "Chiquimula",
                 "state_code": "CQ"
             },
             {
-                "name": "El Progreso Department",
+                "name": "El Progreso",
                 "state_code": "PR"
             },
             {
-                "name": "Escuintla Department",
+                "name": "Escuintla",
                 "state_code": "ES"
             },
             {
-                "name": "Guatemala Department",
+                "name": "Guatemala",
                 "state_code": "GU"
             },
             {
-                "name": "Huehuetenango Department",
+                "name": "Huehuetenango",
                 "state_code": "HU"
             },
             {
-                "name": "Izabal Department",
+                "name": "Izabal",
                 "state_code": "IZ"
             },
             {
-                "name": "Jalapa Department",
+                "name": "Jalapa",
                 "state_code": "JA"
             },
             {
-                "name": "Jutiapa Department",
+                "name": "Jutiapa",
                 "state_code": "JU"
             },
             {
-                "name": "Petén Department",
+                "name": "Petén",
                 "state_code": "PE"
             },
             {
-                "name": "Quetzaltenango Department",
+                "name": "Quetzaltenango",
                 "state_code": "QZ"
             },
             {
-                "name": "Quiché Department",
+                "name": "Quiché",
                 "state_code": "QC"
             },
             {
-                "name": "Retalhuleu Department",
+                "name": "Retalhuleu",
                 "state_code": "RE"
             },
             {
-                "name": "Sacatepéquez Department",
+                "name": "Sacatepéquez",
                 "state_code": "SA"
             },
             {
-                "name": "San Marcos Department",
+                "name": "San Marcos",
                 "state_code": "SM"
             },
             {
-                "name": "Santa Rosa Department",
+                "name": "Santa Rosa",
                 "state_code": "SR"
             },
             {
-                "name": "Sololá Department",
+                "name": "Sololá",
                 "state_code": "SO"
             },
             {
-                "name": "Suchitepéquez Department",
+                "name": "Suchitepéquez",
                 "state_code": "SU"
             },
             {
-                "name": "Totonicapán Department",
+                "name": "Totonicapán",
                 "state_code": "TO"
             }
         ]
@@ -13343,75 +13343,75 @@
         "name": "Honduras",
         "states": [
             {
-                "name": "Atlántida Department",
+                "name": "Atlántida",
                 "state_code": "AT"
             },
             {
-                "name": "Bay Islands Department",
+                "name": "Bay Islands",
                 "state_code": "IB"
             },
             {
-                "name": "Choluteca Department",
+                "name": "Choluteca",
                 "state_code": "CH"
             },
             {
-                "name": "Colón Department",
+                "name": "Colón",
                 "state_code": "CL"
             },
             {
-                "name": "Comayagua Department",
+                "name": "Comayagua",
                 "state_code": "CM"
             },
             {
-                "name": "Copán Department",
+                "name": "Copán",
                 "state_code": "CP"
             },
             {
-                "name": "Cortés Department",
+                "name": "Cortés",
                 "state_code": "CR"
             },
             {
-                "name": "El Paraíso Department",
+                "name": "El Paraíso",
                 "state_code": "EP"
             },
             {
-                "name": "Francisco Morazán Department",
+                "name": "Francisco Morazán",
                 "state_code": "FM"
             },
             {
-                "name": "Gracias a Dios Department",
+                "name": "Gracias a Dios",
                 "state_code": "GD"
             },
             {
-                "name": "Intibucá Department",
+                "name": "Intibucá",
                 "state_code": "IN"
             },
             {
-                "name": "La Paz Department",
+                "name": "La Paz",
                 "state_code": "LP"
             },
             {
-                "name": "Lempira Department",
+                "name": "Lempira",
                 "state_code": "LE"
             },
             {
-                "name": "Ocotepeque Department",
+                "name": "Ocotepeque",
                 "state_code": "OC"
             },
             {
-                "name": "Olancho Department",
+                "name": "Olancho",
                 "state_code": "OL"
             },
             {
-                "name": "Santa Bárbara Department",
+                "name": "Santa Bárbara",
                 "state_code": "SB"
             },
             {
-                "name": "Valle Department",
+                "name": "Valle",
                 "state_code": "VA"
             },
             {
-                "name": "Yoro Department",
+                "name": "Yoro",
                 "state_code": "YO"
             }
         ]
@@ -13420,75 +13420,75 @@
         "name": "Honduras",
         "states": [
             {
-                "name": "Atlántida Department",
+                "name": "Atlántida",
                 "state_code": "AT"
             },
             {
-                "name": "Bay Islands Department",
+                "name": "Bay Islands",
                 "state_code": "IB"
             },
             {
-                "name": "Choluteca Department",
+                "name": "Choluteca",
                 "state_code": "CH"
             },
             {
-                "name": "Colón Department",
+                "name": "Colón",
                 "state_code": "CL"
             },
             {
-                "name": "Comayagua Department",
+                "name": "Comayagua",
                 "state_code": "CM"
             },
             {
-                "name": "Copán Department",
+                "name": "Copán",
                 "state_code": "CP"
             },
             {
-                "name": "Cortés Department",
+                "name": "Cortés",
                 "state_code": "CR"
             },
             {
-                "name": "El Paraíso Department",
+                "name": "El Paraíso",
                 "state_code": "EP"
             },
             {
-                "name": "Francisco Morazán Department",
+                "name": "Francisco Morazán",
                 "state_code": "FM"
             },
             {
-                "name": "Gracias a Dios Department",
+                "name": "Gracias a Dios",
                 "state_code": "GD"
             },
             {
-                "name": "Intibucá Department",
+                "name": "Intibucá",
                 "state_code": "IN"
             },
             {
-                "name": "La Paz Department",
+                "name": "La Paz",
                 "state_code": "LP"
             },
             {
-                "name": "Lempira Department",
+                "name": "Lempira",
                 "state_code": "LE"
             },
             {
-                "name": "Ocotepeque Department",
+                "name": "Ocotepeque",
                 "state_code": "OC"
             },
             {
-                "name": "Olancho Department",
+                "name": "Olancho",
                 "state_code": "OL"
             },
             {
-                "name": "Santa Bárbara Department",
+                "name": "Santa Bárbara",
                 "state_code": "SB"
             },
             {
-                "name": "Valle Department",
+                "name": "Valle",
                 "state_code": "VA"
             },
             {
-                "name": "Yoro Department",
+                "name": "Yoro",
                 "state_code": "YO"
             }
         ]
@@ -26471,15 +26471,15 @@
         "name": "Paraguay",
         "states": [
             {
-                "name": "Alto Paraguay Department",
+                "name": "Alto Paraguay",
                 "state_code": "16"
             },
             {
-                "name": "Alto Paraná Department",
+                "name": "Alto Paraná",
                 "state_code": "10"
             },
             {
-                "name": "Amambay Department",
+                "name": "Amambay",
                 "state_code": "13"
             },
             {
@@ -26487,7 +26487,7 @@
                 "state_code": "ASU"
             },
             {
-                "name": "Boquerón Department",
+                "name": "Boquerón",
                 "state_code": "19"
             },
             {
@@ -26503,19 +26503,19 @@
                 "state_code": "14"
             },
             {
-                "name": "Central Department",
+                "name": "Central",
                 "state_code": "11"
             },
             {
-                "name": "Concepción Department",
+                "name": "Concepción",
                 "state_code": "1"
             },
             {
-                "name": "Cordillera Department",
+                "name": "Cordillera",
                 "state_code": "3"
             },
             {
-                "name": "Guairá Department",
+                "name": "Guairá",
                 "state_code": "4"
             },
             {
@@ -26523,23 +26523,23 @@
                 "state_code": "7"
             },
             {
-                "name": "Misiones Department",
+                "name": "Misiones",
                 "state_code": "8"
             },
             {
-                "name": "Ñeembucú Department",
+                "name": "Ñeembucú",
                 "state_code": "12"
             },
             {
-                "name": "Paraguarí Department",
+                "name": "Paraguarí",
                 "state_code": "9"
             },
             {
-                "name": "Presidente Hayes Department",
+                "name": "Presidente Hayes",
                 "state_code": "15"
             },
             {
-                "name": "San Pedro Department",
+                "name": "San Pedro",
                 "state_code": "2"
             }
         ]
@@ -26548,15 +26548,15 @@
         "name": "Paraguay",
         "states": [
             {
-                "name": "Alto Paraguay Department",
+                "name": "Alto Paraguay",
                 "state_code": "16"
             },
             {
-                "name": "Alto Paraná Department",
+                "name": "Alto Paraná",
                 "state_code": "10"
             },
             {
-                "name": "Amambay Department",
+                "name": "Amambay",
                 "state_code": "13"
             },
             {
@@ -26564,7 +26564,7 @@
                 "state_code": "ASU"
             },
             {
-                "name": "Boquerón Department",
+                "name": "Boquerón",
                 "state_code": "19"
             },
             {
@@ -26580,19 +26580,19 @@
                 "state_code": "14"
             },
             {
-                "name": "Central Department",
+                "name": "Central",
                 "state_code": "11"
             },
             {
-                "name": "Concepción Department",
+                "name": "Concepción",
                 "state_code": "1"
             },
             {
-                "name": "Cordillera Department",
+                "name": "Cordillera",
                 "state_code": "3"
             },
             {
-                "name": "Guairá Department",
+                "name": "Guairá",
                 "state_code": "4"
             },
             {
@@ -26600,23 +26600,23 @@
                 "state_code": "7"
             },
             {
-                "name": "Misiones Department",
+                "name": "Misiones",
                 "state_code": "8"
             },
             {
-                "name": "Ñeembucú Department",
+                "name": "Ñeembucú",
                 "state_code": "12"
             },
             {
-                "name": "Paraguarí Department",
+                "name": "Paraguarí",
                 "state_code": "9"
             },
             {
-                "name": "Presidente Hayes Department",
+                "name": "Presidente Hayes",
                 "state_code": "15"
             },
             {
-                "name": "San Pedro Department",
+                "name": "San Pedro",
                 "state_code": "2"
             }
         ]
